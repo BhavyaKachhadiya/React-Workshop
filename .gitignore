@@ -7,7 +7,12 @@
 
 # testing
 /coverage
+# Own
 P
+package.json
+package-lock.json
+manifest.json
+robots.txt
 # production
 /build
 
